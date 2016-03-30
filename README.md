@@ -1,5 +1,5 @@
 # sojong
 
-# URL Route : ./app.js
+- URL Route : ./app.js
 #
-# DataBase Setting : ./routes/data.js
+- DataBase Setting : ./routes/data.js
